@@ -3,7 +3,7 @@ class Student{
     int b;
 
     public int add(int a, int b) {
-        System.out.println("In add method");
+        System.out.println("In add method");    //just for checking purpose
         return a + b;
     }
 }
